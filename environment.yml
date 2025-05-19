@@ -1,0 +1,13 @@
+name: hbgwo-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - xgboost
+  - seaborn
+  - optuna
